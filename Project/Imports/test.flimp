@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<MsWordImport ImportFolder="" PreserveMappedStyles="false" LastImport="2019-12-03T09:28:17.2508924-08:00" InlineFormatting="Keep" Stylesheet="../../Content/Resources/Stylesheets/test.css">
+<MsWordImport ImportFolder="" PreserveMappedStyles="false" LastImport="2019-12-03T09:28:17.2508924-08:00" InlineFormatting="Convert" Stylesheet="../../Content/Resources/Stylesheets/test.css">
     <Files>
         <Url Source="../../../../../Desktop/test.docx" AbsoluteSource="file:///C:/Users/dspencer/Desktop/test.docx" />
     </Files>

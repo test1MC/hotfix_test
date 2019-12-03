@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MsWordImport ImportFolder="" PreserveMappedStyles="false" LastImport="2019-12-03T09:28:17.2508924-08:00" InlineFormatting="Keep" Stylesheet="../../Content/Resources/Stylesheets/test.css">
+    <Files>
+        <Url Source="../../../../../Desktop/test.docx" AbsoluteSource="file:///C:/Users/dspencer/Desktop/test.docx" />
+    </Files>
+    <ExcludedFiles />
+    <CollectedSourceFiles />
+    <SkippedSourceFiles />
+    <GeneratedFiles>
+        <Url Source="../../Content/Excitement with additional.htm" TimeStamp="12/3/2019 9:28:10 AM" />
+        <Url Source="../TOCs/test.fltoc" TimeStamp="12/3/2019 9:28:10 AM" />
+        <Url Source="../../Content/Resources/Stylesheets/test.css" TimeStamp="12/3/2019 9:28:10 AM" />
+    </GeneratedFiles>
+    <ParagraphStyles>
+        <Map From="Heading 1" To="h1" Style="Flare" />
+    </ParagraphStyles>
+    <CharacterStyles />
+    <NewTopicStyles>
+        <StyleName Name="Heading 1" />
+    </NewTopicStyles>
+</MsWordImport>

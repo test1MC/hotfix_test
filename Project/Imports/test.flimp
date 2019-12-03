@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<MsWordImport ImportFolder="" PreserveMappedStyles="false" LastImport="2019-12-03T09:28:17.2508924-08:00" InlineFormatting="Convert" Stylesheet="../../Content/Resources/Stylesheets/test.css">
+<MsWordImport ImportFolder="" PreserveMappedStyles="true" LastImport="2019-12-03T10:48:41.0349081-08:00" InlineFormatting="Convert" Stylesheet="../../Content/Resources/Stylesheets/test.css">
     <Files>
         <Url Source="../../../../../Desktop/test.docx" AbsoluteSource="file:///C:/Users/dspencer/Desktop/test.docx" />
     </Files>
@@ -7,12 +7,14 @@
     <CollectedSourceFiles />
     <SkippedSourceFiles />
     <GeneratedFiles>
-        <Url Source="../../Content/Excitement with additional.htm" TimeStamp="12/3/2019 9:28:10 AM" />
-        <Url Source="../TOCs/test.fltoc" TimeStamp="12/3/2019 9:28:10 AM" />
-        <Url Source="../../Content/Resources/Stylesheets/test.css" TimeStamp="12/3/2019 9:28:10 AM" />
+        <Url Source="../../Content/Excitement with additional.htm" TimeStamp="12/3/2019 10:48:37 AM" />
+        <Url Source="../../Content/Heading one.htm" TimeStamp="12/3/2019 10:48:37 AM" />
+        <Url Source="../TOCs/test.fltoc" TimeStamp="12/3/2019 10:48:37 AM" />
+        <Url Source="../../Content/Resources/Stylesheets/test.css" TimeStamp="12/3/2019 10:48:37 AM" />
     </GeneratedFiles>
     <ParagraphStyles>
         <Map From="Heading 1" To="h1" Style="Flare" />
+        <Map From="Intense Quote" To="p.IntenseQuote" Style="Word" />
     </ParagraphStyles>
     <CharacterStyles />
     <NewTopicStyles>
